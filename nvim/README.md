@@ -1,1 +1,1 @@
-## Various settings for tools
+## Various settings for neovim 
